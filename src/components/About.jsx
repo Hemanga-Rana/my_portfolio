@@ -14,23 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        I'm a dedicated Front-End Developer with a passion for crafting immersive web experiences. My toolkit includes HTML, CSS, and JavaScript, which I blend seamlessly with modern frameworks like React.js and Next.js. I'm a maestro of UI design with Tailwind CSS, and I navigate version control effortlessly with Git and GitHub. I have a penchant for adding a touch of magic to websites through GSAP animations. As a detail-oriented problem solver, I thrive on transforming design visions into functional, user-centric interfaces. Let's connect and collaborate on creating exceptional digital journeys!
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        I'm a dedicated Front-End Developer with a passion for crafting immersive web experiences. My toolkit includes HTML, CSS, and JavaScript, which I blend seamlessly with modern frameworks like React.js and Next.js. I'm a maestro of UI design with Tailwind CSS, and I navigate version control effortlessly with Git and GitHub. I have a penchant for adding a touch of magic to websites through GSAP animations. As a detail-oriented problem solver, I thrive on transforming design visions into functional, user-centric interfaces. Let's connect and collaborate on creating exceptional digital journeys!
         </p>
       </div>
     </div>
