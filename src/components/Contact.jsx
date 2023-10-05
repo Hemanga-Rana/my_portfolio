@@ -1,4 +1,8 @@
 import React from "react";
+import linkedIn from "../assets/logo/linkedin.png";
+import github from "../assets/logo/github.png";
+import leetcode from "../assets/logo/leetcode.png";
+import twitter from "../assets/logo/twitter.png";
 
 const Contact = () => {
   return (
@@ -44,6 +48,38 @@ const Contact = () => {
             </button>
           </form>
         </div>
+
+        <div className="flex items-center justify-between">
+          <div className="w-1/2"></div>
+          <div  className="flex items-center justify-between w-1/4 opacity-80" >
+              <a href="https://www.linkedin.com/in/hemangarana/"><img
+                src={linkedIn}
+                alt=""
+                height={30} width={30}
+                className="rounded-md duration-200 hover:scale-105"
+              /></a>
+              <a href="https://github.com/Hemanga-Rana"><img
+                src={github}
+                alt=""
+                height={30} width={30}
+                className="rounded-md duration-200 hover:scale-105"
+              /></a>
+              <a href="https://leetcode.com/hemangarana/"><img
+                src={leetcode}
+                alt=""
+                height={35} width={35}
+                className="rounded-md duration-200 hover:scale-105"
+              /></a>
+              <a href="https://twitter.com/rana_hemanga"><img
+                src={twitter}
+                alt=""
+                height={30} width={30}
+                className="rounded-md duration-200 hover:scale-105"
+              /></a>
+          </div>
+          <div className="w-1/2"></div>
+        </div>
+        
       </div>
     </div>
   );
