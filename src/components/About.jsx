@@ -4,23 +4,28 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
-    >
+      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white">
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-        <div className="pb-8">
+        <div className="pb-8 pt-5">
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             About
           </p>
         </div>
 
         <p className="text-xl mt-20">
-        I'm a dedicated Front-End Developer with a passion for crafting immersive web experiences. My toolkit includes HTML, CSS, and JavaScript, which I blend seamlessly with modern frameworks like React.js and Next.js. I'm a maestro of UI design with Tailwind CSS, and I navigate version control effortlessly with Git and GitHub. I have a penchant for adding a touch of magic to websites through GSAP animations. As a detail-oriented problem solver, I thrive on transforming design visions into functional, user-centric interfaces. Let's connect and collaborate on creating exceptional digital journeys!
+          As a passionate MERN Stack Developer, I excel in crafting immersive 
+          web experiences. My expertise spans React, Tailwind, Next.js, Node, 
+          MongoDB, and Express.js. With a mastery of HTML, CSS, and JavaScript, 
+          I seamlessly blend traditional skills with modern frameworks. 
         </p>
 
         <br />
 
         <p className="text-xl">
-        I'm a dedicated Front-End Developer with a passion for crafting immersive web experiences. My toolkit includes HTML, CSS, and JavaScript, which I blend seamlessly with modern frameworks like React.js and Next.js. I'm a maestro of UI design with Tailwind CSS, and I navigate version control effortlessly with Git and GitHub. I have a penchant for adding a touch of magic to websites through GSAP animations. As a detail-oriented problem solver, I thrive on transforming design visions into functional, user-centric interfaces. Let's connect and collaborate on creating exceptional digital journeys!
+        A UI design maestro using Tailwind CSS and skilled in version control
+          with Git/GitHub, I add magic to websites through GSAP animations. 
+          I thrive on transforming design visions into user-centric interfaces. 
+          Let's collaborate and create exceptional digital journeys together!
         </p>
       </div>
     </div>
