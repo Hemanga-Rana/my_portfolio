@@ -51,7 +51,7 @@ const Contact = () => {
 
         <div className="flex items-center justify-between">
           <div className="w-1/2"></div>
-          <div  className="flex items-center justify-between w-1/4 opacity-80" >
+          <div  className="flex gap-1 items-center justify-between w-1/4 opacity-80" >
               <a href="https://www.linkedin.com/in/hemangarana/"><img
                 src={linkedIn}
                 alt=""
